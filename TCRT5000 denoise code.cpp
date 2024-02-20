@@ -2,8 +2,8 @@
 This code is to Remove ambience noise from sensor data.
 IR LED connected to Digital pin: 6
 IR diode connected to analog input:A3
-TRIED AND TESTED BY WWW.THINKROBOTICS.IN
 */
+
 int a,b,c;
 void setup() 
 {
