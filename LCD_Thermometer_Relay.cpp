@@ -1,5 +1,5 @@
-////Successful Test 3.24.22 
-//// - LCD output Temp and Fan Status, Relay activated @ 75F, Temp Threshold 74-75 
+////Successful Test
+////LCD output Temp and Fan Status, Relay activated @ 75F, Temp Threshold 74-75 
 
 ////////TESTING: One-button Webserver with Temp/Humidity Output
 
